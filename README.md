@@ -13,3 +13,20 @@ Apache Druid is an open source real time database to power modern analytical app
 - Fast & consistent queries at high concurrency
   - Combines noval storage ideas & indexing structures
   - Supports exact & approximate queries to return most results in under a second
+- Broad applicability
+  - Unlocks new types of queries & workflows
+    - Clickstream
+    - APM
+    - Suply Chain
+    - Network telemetry
+    - Digital Marketing
+    - Risk
+    - Fraud
+    - Many more types of data
+  - Built for rapid, ad-hoc queries on real-time & historical data
+- Deploy in public, private & hybrid clouds
+  - Unix OS
+  - Commodity Hardware
+  - On-prim
+  - Cloud
+  - Deploying druid is easy (Scale Up & Scale Down)
